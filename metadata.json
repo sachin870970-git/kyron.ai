@@ -1,0 +1,6 @@
+{
+  "name": "ULTIMATE.AI — Next-Generation All-In-One AI Ecosystem",
+  "description": "An advanced, intelligent, privacy-first AI platform with photorealistic image & video creation, Multiverse Explorer, scientific calculation engine, Hard Work & Smart Work reasoning, and creative studios.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
